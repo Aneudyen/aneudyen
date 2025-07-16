@@ -12,10 +12,10 @@
 <h2> 🤳 Connect with me:</h2>
 
 
-[twitter]: 
-[youtube]: 
+[twitter]: https://x.com/EustateJose
+[youtube]: https://www.youtube.com/@AneudyTutoriales
 [instagram]: 
-[linkedin]: 
+[linkedin]: https://www.linkedin.com/in/joseeustatenunez/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
