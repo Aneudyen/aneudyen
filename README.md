@@ -14,7 +14,6 @@
 
 [twitter]: https://x.com/EustateJose
 [youtube]: https://www.youtube.com/@AneudyTutoriales
-[instagram]: 
 [linkedin]: https://www.linkedin.com/in/joseeustatenunez/
 
 <!--
