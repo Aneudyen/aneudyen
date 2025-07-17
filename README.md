@@ -7,7 +7,9 @@
 
  
  
-<h2>🧾 Certifications</h2>    
+<h2>🧾 Certifications</h2>  
+
+- [Cisco Networking Basis](https://www.credly.com/badges/68e9536f-b380-47d2-b578-496c4df05bd6)
 
 
 <h2>📺 Popular YouTube Videos</h2>
