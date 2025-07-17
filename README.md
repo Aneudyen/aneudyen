@@ -1,8 +1,11 @@
 <h1>Hi, I'm Jose! <br/><a href="https://github.com/Aneudyen">Programmer</a>, <a href="https://www.linkedin.com/in/joseeustatenunez/">Cybersecurity</a>, <a href="https://www.youtube.com/@AneudyTutoriales">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects and Cybersecurity: </h2>
-- <b>Incident Response Simulation</b>
-  - [Incident Response Simulation](https://github.com/Aneudyen/Incident-Response-Simulation)
+
+- [Incident Response Simulation](https://github.com/Aneudyen/Incident-Response-Simulation)
+  
+
+ 
  
 <h2>🧾 Certifications</h2>    
 
